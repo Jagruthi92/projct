@@ -6,6 +6,12 @@ public class cls1 {
 		System.out.println("hi");
 		
 		System.out.println("hi");
+		
+		
+		System.out.println("hi");
+		
+		
+		System.out.println("hi");
 
 	}
 
